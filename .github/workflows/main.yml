@@ -4,12 +4,17 @@ on:
   schedule:
     # Runs at 2am UTC
     - cron: "0 2 * * *"
+  workflow_dispatch: # Allow manual runs
+
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: christian-brandlehner # optional, but default will use the same from github
+          NUMBER_LAST_BADGES: 0 # Show last x badges (0 = all)
