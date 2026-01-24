@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbrandlehner)
 
 ![GitHub followers](https://img.shields.io/github/followers/cbrandlehner?style=social)
 
