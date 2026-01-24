@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![GitHub followers](https://img.shields.io/github/followers/cbrandlehner?style=social)
+![GitHub stars](https://img.shields.io/github/stars/cbrandlehner/homebridge-daikin-local?style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbrandlehner&layout=compact)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=cbrandlehner)
+![Profile views](https://komarev.com/ghpvc/?username=cbrandlehner&color=blue)
+
 <b>MY CREDLY BADGES</b>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/03cc8456-76cb-4e8b-85db-23bf5746c6d5" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
