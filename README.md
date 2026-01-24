@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>MY BADGES</b>
+<b>MY CREDLY BADGES</b>
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/03cc8456-76cb-4e8b-85db-23bf5746c6d5" title="ISC2 Candidate"><img src="https://images.credly.com/size/80x80/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png" alt="ISC2 Candidate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/edd4eb9e-fa84-4565-8ae8-7fcdb987d844" title="Cloud Pak for Automation Sales Foundation"><img src="https://images.credly.com/size/80x80/images/cdb150ed-2cd8-4269-a84a-46bc4c1d8fde/Cloud_Pak_for_Automation_Sales_Foundation.png" alt="Cloud Pak for Automation Sales Foundation" width="80" height="80"></a>
