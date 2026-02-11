@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ![GitHub stars](https://img.shields.io/github/stars/cbrandlehner/homebridge-daikin-local?style=flat-square)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbrandlehner&layout=compact)
-
 
 <b>MY CREDLY BADGES</b>
 <!--START_SECTION:badges-->
