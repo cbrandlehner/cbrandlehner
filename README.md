@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 [![Cloud & Cognitive Patterns](https://images.credly.com/size/80x80/images/af4f707a-005a-4e2a-b731-7fd377dd8e8b/image.png)](https://www.credly.com/badges/fe1864ce-1998-443c-8e14-b09d84df09aa)
 [![IBM Agile Explorer](https://images.credly.com/size/80x80/images/a972f054-be07-4845-85c7-95c8d11852f5/IBM-Agile-Explorer.png)](https://www.credly.com/badges/126f3ada-b636-4582-ace4-ef34596bf65c)
 [![IBM Blockchain Essentials](https://images.credly.com/size/80x80/images/c2137484-b8fa-4c38-b1ca-a2618a7360e9/Blockchain_Essentials.png)](https://www.credly.com/badges/55aa4611-bcc1-4d35-9682-59ef3b6e3dbb)
-[![Banking Insights and Solutions (Silver)](https://images.credly.com/size/80x80/images/a67a1e46-25db-4cc6-835a-7ab773070cf1/Banking-Industry-Silver.png)](https://www.credly.com/badges/ef0ffc0c-3b05-4d75-a4ce-d7a9503f1549)
+[![Banking Insights and Solutions (Silver)](https://images.credly.com/size/80x80/images/8b7ca01d-3b59-491e-98e9-c5799abf8b24/Banking-Industry-Silver.png)](https://www.credly.com/badges/ef0ffc0c-3b05-4d75-a4ce-d7a9503f1549)
 [![IBM API Connect Workflow Management](https://images.credly.com/size/80x80/images/8c9c437c-d432-4b5d-ae21-acf879746955/API_Connect_Workflow_Mgmt_-_IDNS.png)](https://www.credly.com/badges/7d39ae50-8dba-4d4c-bd1a-c7f69bc29176)
 [![Node-RED: basics to bots](https://images.credly.com/size/80x80/images/cc48c11c-6567-4b63-8c0f-0e2c030f1d95/blob)](https://www.credly.com/badges/3d181582-54d4-40b2-a87a-0deb8193b5fc)
 [![IBM Watson Data Platform](https://images.credly.com/size/80x80/images/780b25e9-6b49-41e6-9843-7d07ea710032/Watson_Data_Platform.png)](https://www.credly.com/badges/4299ae78-0509-4aa8-9647-78113c362173)
