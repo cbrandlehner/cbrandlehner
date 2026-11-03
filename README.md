@@ -71,4 +71,9 @@ Here are some ideas to get you started:
 [![Cloud App Developer](https://images.credly.com/size/80x80/images/d03daa9d-d708-4989-b8f4-7f44656a2e27/Cloud_App_Developer_-_Knowledge_Badge.png)](https://www.credly.com/badges/d300512f-d6ea-4858-a58c-51574dfcc2fe)
 [![Data Science Foundations - Level 1](https://images.credly.com/size/80x80/images/5950e6bd-1d0b-40f0-9313-4b2fa36622ce/blob)](https://www.credly.com/badges/1c9c4c27-978c-49fb-ae4e-9f941d5727b7)
 [![Selling IoT - Level 1 Program](https://images.credly.com/size/80x80/images/64bae7d7-cc8b-4ff5-84fc-d6aeea078cb3/IOT_Platform_Sales_L1_Bronze.png)](https://www.credly.com/badges/cf1e10f9-3446-428c-aa60-e81f09dd29fe)
+[![Big Data Foundations - Level 1](https://images.credly.com/size/80x80/images/73055bb1-016d-4aaf-8d03-77904eeedf92/blob)](https://www.credly.com/badges/b9ae8a19-83dc-48d5-9ed3-a13a440c0030)
+[![IBM Cloud Essentials](https://images.credly.com/size/80x80/images/92e96a17-8498-4007-9731-9971b5a24571/IBM_Cloud_Essentials_-_Knowledge_Badge.png)](https://www.credly.com/badges/e08717ea-41ab-4b2a-9563-a80ed9c5fbfe)
+[![Business and Industry Insight](https://images.credly.com/size/80x80/images/74d11312-3bdb-4fa8-b325-93b4c212c444/Business-and-Industry-Insight.png)](https://www.credly.com/badges/4a4ecb87-0908-484e-98e1-bb1bc1b582e8)
+[![IBM Selling Profession Certification - Experienced](https://images.credly.com/size/80x80/images/04eb7e1b-2bfa-4509-b6ad-74680347acd5/Selling-Experienced.png)](https://www.credly.com/badges/b0134a70-ca66-46e2-bbc2-d95f91b68d05)
+[![Instana Intermediate](https://images.credly.com/size/80x80/images/faf29d25-5f48-47d9-af7f-6c6427312821/blob)](https://www.credly.com/badges/074cb6cf-020a-4e4c-8053-63f19dcb968a)
 <!--END_SECTION:badges-->
