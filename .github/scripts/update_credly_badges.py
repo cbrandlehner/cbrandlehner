@@ -16,7 +16,7 @@ from pathlib import Path
 USER = "christian-brandlehner"
 START = "<!--START_SECTION:badges-->"
 END = "<!--END_SECTION:badges-->"
-SIZE = 80
+SIZE = 120
 README = Path(__file__).resolve().parents[2] / "README.md"
 API = f"https://www.credly.com/users/{USER}/badges.json"
 
