@@ -77,3 +77,25 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/b0134a70-ca66-46e2-bbc2-d95f91b68d05"><img src="https://images.credly.com/images/04eb7e1b-2bfa-4509-b6ad-74680347acd5/Selling-Experienced.png" alt="IBM Selling Profession Certification - Experienced" width="120" height="120"></a>
 <a href="https://www.credly.com/badges/074cb6cf-020a-4e4c-8053-63f19dcb968a"><img src="https://images.credly.com/images/faf29d25-5f48-47d9-af7f-6c6427312821/blob" alt="Instana Intermediate" width="120" height="120"></a>
 <!--END_SECTION:badges-->
+
+<b>WEITERE ZERTIFIKATE</b>
+
+**CrowdSec Academy**
+
+- [CrowdSec Threat Intelligence](https://academy.crowdsec.net/course/crowdsec-cyber-threat-intelligence), 10.09.2025
+- [CrowdSec Fundamentals](https://academy.crowdsec.net/course/crowdsec-fundamentals), 28.06.2025
+- [Community Driven Cybersecurity](https://academy.crowdsec.net/course/community-driven-cybersecurity), 28.06.2025
+- [Writing Parsers and Scenarios](https://academy.crowdsec.net/course/writing-parsers-and-scenarios), 28.06.2025
+- [Deploying CrowdSec in Kubernetes](https://academy.crowdsec.net/course/deploying-crowdsec-in-kubernetes), 28.06.2025
+
+**IREB**
+
+- Certified Professional for Requirements Engineering, Foundation Level (Certible, Wien), 09.12.2021
+
+**VINCI Energies**
+
+- Führungskräfte-Entwicklungsprogramm, 12.–13.01.2021
+
+**Enphase**
+
+- Zertifizierungsschulung für Enphase-Solaranlagen – Grundlagen, 09.06.2026
