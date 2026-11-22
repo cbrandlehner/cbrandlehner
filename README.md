@@ -99,3 +99,6 @@ Here are some ideas to get you started:
 **Enphase**
 
 - Zertifizierungsschulung für Enphase-Solaranlagen – Grundlagen, 09.06.2026
+- IQ8-Systeme und -Technologie, 09.06.2026
+- IQ Battery 5P with FlexPhase: Zertifizierungsschulung_AT, 09.06.2026
+- Zertifizierungsschulung IQ Energy Router, 09.06.2026
