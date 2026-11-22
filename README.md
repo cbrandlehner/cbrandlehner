@@ -82,23 +82,23 @@ Here are some ideas to get you started:
 
 **CrowdSec Academy**
 
-- [CrowdSec Threat Intelligence](https://academy.crowdsec.net/course/crowdsec-cyber-threat-intelligence), 10.09.2025
-- [CrowdSec Fundamentals](https://academy.crowdsec.net/course/crowdsec-fundamentals), 28.06.2025
-- [Community Driven Cybersecurity](https://academy.crowdsec.net/course/community-driven-cybersecurity), 28.06.2025
-- [Writing Parsers and Scenarios](https://academy.crowdsec.net/course/writing-parsers-and-scenarios), 28.06.2025
-- [Deploying CrowdSec in Kubernetes](https://academy.crowdsec.net/course/deploying-crowdsec-in-kubernetes), 28.06.2025
+- [CrowdSec Threat Intelligence](https://academy.crowdsec.net/course/crowdsec-cyber-threat-intelligence), 2025
+- [CrowdSec Fundamentals](https://academy.crowdsec.net/course/crowdsec-fundamentals), 2025
+- [Community Driven Cybersecurity](https://academy.crowdsec.net/course/community-driven-cybersecurity), 2025
+- [Writing Parsers and Scenarios](https://academy.crowdsec.net/course/writing-parsers-and-scenarios), 2025
+- [Deploying CrowdSec in Kubernetes](https://academy.crowdsec.net/course/deploying-crowdsec-in-kubernetes), 2025
 
 **IREB**
 
-- Certified Professional for Requirements Engineering, Foundation Level (Certible, Wien), 09.12.2021
+- Certified Professional for Requirements Engineering, Foundation Level (Certible, Wien), 2021
 
 **VINCI Energies**
 
-- Führungskräfte-Entwicklungsprogramm, 12.–13.01.2021
+- Führungskräfte-Entwicklungsprogramm, 2021
 
 **Enphase**
 
-- Zertifizierungsschulung für Enphase-Solaranlagen – Grundlagen, 09.06.2026
-- IQ8-Systeme und -Technologie, 09.06.2026
-- IQ Battery 5P with FlexPhase: Zertifizierungsschulung_AT, 09.06.2026
-- Zertifizierungsschulung IQ Energy Router, 09.06.2026
+- Zertifizierungsschulung für Enphase-Solaranlagen – Grundlagen, 2026
+- IQ8-Systeme und -Technologie, 2026
+- IQ Battery 5P with FlexPhase: Zertifizierungsschulung_AT, 2026
+- Zertifizierungsschulung IQ Energy Router, 2026
